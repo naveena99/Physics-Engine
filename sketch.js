@@ -24,7 +24,7 @@ function setup() {
   }
 
   
-  ground = Bodies.rectangle(400,380,400,20,ground_options);
+  ground = Bodies.rectangle(200,380,400,20,ground_options);
   World.add(world,ground);
 
 
